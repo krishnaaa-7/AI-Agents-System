@@ -1,0 +1,14 @@
+opencv-python
+pillow
+numpy
+ultralytics
+pytesseract
+pdfplumber
+pdf2image
+fastapi
+uvicorn
+langchain
+langgraph
+chromadb
+pydantic
+python-dotenv
